@@ -1,6 +1,6 @@
 age = 30
 name = "Profe 🎃"
-print('Hola ' + name + ', tienes ' + age + "años!!")
+print(f'Hola {name} tienes {str(age)} años!!')
 
 
 A = 0
