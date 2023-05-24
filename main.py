@@ -1,8 +1,13 @@
 age = 30
 name = "Profe 🎃"
-print('Hola ' + name + ', tienes ' + age + "años!!")
+print(f'Hola {name} tienes {str(age)} años!!')
 
 
+A = 0
+
+b = 0
+
+C = 0
 
 
 def imprimir_dibujo_ascii(dibujo):
