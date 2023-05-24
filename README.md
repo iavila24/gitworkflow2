@@ -2,6 +2,7 @@
 Workflow #2 de github
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Yo a finales del semestre:
 
 ```html
@@ -19,12 +20,10 @@ Workflow #2 de github
 ```
 =======
 ---
+=======
+>>>>>>> 86bb62e579f744a2482b0c17d806e309996a5035
 ### Colaboradores
-
-1. Clonar el repositorio
-```bash
-git clone https://github.com/iavila24/gitworkflow2
-```
+1. Clonar el repositorio 
 2. Entrar a la carpeta 
 3. Antes de subir la modificacion hacer 
 ```bash
