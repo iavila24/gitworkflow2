@@ -1,6 +1,8 @@
 age = 30;
 name = "Profe 🎃"
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 #Alumno Juan
@@ -14,8 +16,12 @@ print('Hola ' + name + ', tienes ' + age + "años!!")
 >>>>>>> 69419a0cbac4590d5288090cf90f08e1a8b2468c
 =======
 print(f'Hola {name} tienes {str(age)} años!!')
+>>>>>>> 8f855ba4a0a6aa4211278ddadc52f3184f4aa759
 
+print('Hola ' + name + ', tienes ' + str(age) + "años!!")
 
+<<<<<<< HEAD
+=======
 A = 0
 
 b = 0
@@ -112,4 +118,8 @@ dibujo= '''
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠹⣇⣴⠷⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 '''
 >>>>>>> 32ae91c43d6f01aad657180b602761d1c41a2ea0
+<<<<<<< HEAD
 >>>>>>> be8e08c77ff385555c66adc25c31ecffd658f907
+=======
+>>>>>>> 8f855ba4a0a6aa4211278ddadc52f3184f4aa759
+>>>>>>> c2ffac932b661412df5ec50af2bf7ee70e916daa
