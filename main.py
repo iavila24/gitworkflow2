@@ -1,3 +1,8 @@
-age = 30
+age = 30;
 name = "Profe 🎃"
-print('Hola ' + name + ', tienes ' + age + "años!!")
+
+#Alumno Juan
+juanblink = 'Juan Manuel Chavez Peralta'
+
+
+print(juanblink)
